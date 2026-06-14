@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T22:22:18.922Z",
+  "generatedAt": "2026-06-14T00:26:14.438Z",
   "sourceCount": 8,
   "videoCount": 24,
   "videos": [
@@ -365,6 +365,31 @@
       "accentColor": "#E40012"
     },
     {
+      "id": "yt-DD3pH1Fj9WM",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "DD3pH1Fj9WM",
+      "sourceId": "nintendo-yt",
+      "sourceName": "Nintendo",
+      "sourceType": "official-platform",
+      "title": "Star Fox – Single-player + Co-op Gameplay – Nintendo Treehouse: Live | June 2026",
+      "description": "Star Fox releases June 25, 2026 on Nintendo Switch 2. Pre-order now: https://www.nintendo.com/us/store/products/star-fox-switch-2/\n\nNintendo Treehouse: Live flies through the Lylat system in this cinematic Star Fox game! Check out gameplay actions in Corneria, Meteo and Macbeth!\n\nSee more Star Fox g",
+      "publishedAt": "2026-06-09T16:35:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DD3pH1Fj9WM/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/DD3pH1Fj9WM/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Nintendo"
+      ],
+      "videoGenre": "gameplay",
+      "official": true,
+      "externalUrl": "https://www.youtube.com/watch?v=DD3pH1Fj9WM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/DD3pH1Fj9WM",
+      "bookmarked": false,
+      "accentColor": "#E40012"
+    },
+    {
       "id": "yt-033V4rCJpDE",
       "contentType": "video",
       "provider": "youtube",
@@ -445,31 +470,6 @@
       "embedUrl": "https://www.youtube-nocookie.com/embed/wjCwIkqPIaQ",
       "bookmarked": false,
       "accentColor": "#26e6ff"
-    },
-    {
-      "id": "yt-acVxDgratbA",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "acVxDgratbA",
-      "sourceId": "nintendo-yt",
-      "sourceName": "Nintendo",
-      "sourceType": "official-platform",
-      "title": "UNITE Day 2 | 2026 Pokémon North America International Championships",
-      "description": "Pokémon UNITE is live at the 2026 North America International Championships! Pokémon UNITE teams from around the world will battle until only one remains. Which team will secure an invitation to the 2026 World Championships in San Francisco, California, this August!\n\nVisit Nintendo.com for more info",
-      "publishedAt": "2026-06-05T00:51:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/acVxDgratbA/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/acVxDgratbA/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Nintendo"
-      ],
-      "videoGenre": "trailer",
-      "official": true,
-      "externalUrl": "https://www.youtube.com/watch?v=acVxDgratbA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/acVxDgratbA",
-      "bookmarked": false,
-      "accentColor": "#E40012"
     },
     {
       "id": "yt-u01OZnb2O98",
