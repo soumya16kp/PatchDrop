@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-06-17T17:24:59.519Z",
+  "generatedAt": "2026-06-17T20:35:05.848Z",
   "sourceCount": 8,
   "videoCount": 24,
   "videos": [
+    {
+      "id": "yt-6VzU_uF5st8",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "6VzU_uF5st8",
+      "sourceId": "nintendo-yt",
+      "sourceName": "Nintendo",
+      "sourceType": "official-platform",
+      "title": "Trine 6: Together in Time – Announcement Trailer – Nintendo Switch 2",
+      "description": "Trine 6: Together in Time is coming to Nintendo Switch 2 and Nintendo Switch on September 17, 2026: https://www.nintendo.com/us/store/products/trine-6-together-in-time-switch-2/?utm_source=SW&utm_medium=soytnoa&utm_campaign=P1021-01&utm_id=P1021-01 \n\nTrine 6: Together in Time is a co-op puzzle platf",
+      "publishedAt": "2026-06-17T18:55:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6VzU_uF5st8/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/6VzU_uF5st8/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Nintendo"
+      ],
+      "videoGenre": "trailer",
+      "official": true,
+      "externalUrl": "https://www.youtube.com/watch?v=6VzU_uF5st8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/6VzU_uF5st8",
+      "bookmarked": false,
+      "accentColor": "#E40012"
+    },
     {
       "id": "yt-RfpsUXuNTc0",
       "contentType": "video",
@@ -497,31 +522,6 @@
       "embedUrl": "https://www.youtube-nocookie.com/embed/1IT7sQ7pqsE",
       "bookmarked": false,
       "accentColor": "#26e6ff"
-    },
-    {
-      "id": "yt-PvUPDSDZg1k",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "PvUPDSDZg1k",
-      "sourceId": "nintendo-yt",
-      "sourceName": "Nintendo",
-      "sourceType": "official-platform",
-      "title": "Nintendo Direct 6.9.2026 + Nintendo Treehouse: Live | June 2026",
-      "description": "Join us on June 9 at 7am PT / 10am ET for Nintendo Direct 6.9.2026 followed immediately by Nintendo Treehouse: Live | June 2026.\n \nThe livestream kicks off with Nintendo Direct 6.9.2026, which will run for roughly 50 minutes and highlight upcoming Nintendo Switch 2 and Nintendo Switch games. Immedia",
-      "publishedAt": "2026-06-09T16:49:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PvUPDSDZg1k/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/PvUPDSDZg1k/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Nintendo"
-      ],
-      "videoGenre": "gameplay",
-      "official": true,
-      "externalUrl": "https://www.youtube.com/watch?v=PvUPDSDZg1k",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/PvUPDSDZg1k",
-      "bookmarked": false,
-      "accentColor": "#E40012"
     },
     {
       "id": "yt-033V4rCJpDE",
