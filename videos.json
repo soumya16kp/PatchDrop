@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-06-17T14:03:26.799Z",
+  "generatedAt": "2026-06-17T17:24:59.519Z",
   "sourceCount": 8,
   "videoCount": 24,
   "videos": [
+    {
+      "id": "yt-RfpsUXuNTc0",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "RfpsUXuNTc0",
+      "sourceId": "digital-foundry-yt",
+      "sourceName": "Digital Foundry",
+      "sourceType": "editorial",
+      "title": "DF Direct Q+A: Xbox Reboot Studio Closure Reports, RTX 50-Series Super Returns? ARM ML Rendering",
+      "description": "CyberPowerPC next-day PCs are now on sale. Order before 2pm Mon-Fri, your PC arrives the next business day. Ready to go out of the box. Learn more: https://www.cyberpowersystem.co.uk/?utm_source=youtube&utm_medium=influencer&utm_campaign=digital_foundry\n\nThe team is left reeling after reports emerge",
+      "publishedAt": "2026-06-17T17:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RfpsUXuNTc0/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/RfpsUXuNTc0/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Hardware",
+        "Reviews",
+        "Xbox",
+        "PC"
+      ],
+      "videoGenre": "review",
+      "official": false,
+      "externalUrl": "https://www.youtube.com/watch?v=RfpsUXuNTc0",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/RfpsUXuNTc0",
+      "bookmarked": false,
+      "accentColor": "#26e6ff"
+    },
     {
       "id": "yt-CJSjqkaxtt4",
       "contentType": "video",
@@ -602,33 +630,6 @@
       "official": false,
       "externalUrl": "https://www.youtube.com/watch?v=BlzgSzRA9Q8",
       "embedUrl": "https://www.youtube-nocookie.com/embed/BlzgSzRA9Q8",
-      "bookmarked": false,
-      "accentColor": "#26e6ff"
-    },
-    {
-      "id": "yt-OxIot1NRpyo",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "OxIot1NRpyo",
-      "sourceId": "digital-foundry-yt",
-      "sourceName": "Digital Foundry",
-      "sourceType": "editorial",
-      "title": "State of Play June 2026 Reaction - Wolverine, God of War Laufey, Tomb Raider, Rayman + More!",
-      "description": "Thanks to MSI for sponsoring this video. Learn more about the MPG 322UR QD-OLED X24: https://msi.gm/DF_MPG_322UR_QD-OLED_X24\nCheck out MSI's Summer Kickoff Sale - https://msi.gm/DF_The_Summer_Kickoff_Sale\n\nThe summer games showcase event season is upon us and Sony is first off the mark with an excel",
-      "publishedAt": "2026-06-03T18:50:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OxIot1NRpyo/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/OxIot1NRpyo/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Hardware",
-        "Reviews",
-        "PlayStation"
-      ],
-      "videoGenre": "review",
-      "official": false,
-      "externalUrl": "https://www.youtube.com/watch?v=OxIot1NRpyo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/OxIot1NRpyo",
       "bookmarked": false,
       "accentColor": "#26e6ff"
     }
