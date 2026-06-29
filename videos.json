@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-06-29T11:32:04.666Z",
+  "generatedAt": "2026-06-29T16:10:56.335Z",
   "sourceCount": 8,
   "videoCount": 24,
   "videos": [
+    {
+      "id": "yt-65YNB4CfXgc",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "65YNB4CfXgc",
+      "sourceId": "digital-foundry-yt",
+      "sourceName": "Digital Foundry",
+      "sourceType": "editorial",
+      "title": "DF Direct Weekly #270: GTA 6 Screens: Are They Real-Time? Xbox Price Jump, FSR 4 on RDNA 3",
+      "description": "Thanks to Alienware for sponsoring DF Direct. To learn more about the Alienware AREA-51 Gaming Desktop, check out: http://aw.gg/digitalfoundry\n\nOliver, Rich and Tom discuss GTA 6. Are the 63 new screenshots indicative of actual gameplay? What about the \"code in a box\" situation? Are the latest PS5 P",
+      "publishedAt": "2026-06-29T15:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/65YNB4CfXgc/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/65YNB4CfXgc/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Hardware",
+        "Reviews",
+        "PlayStation",
+        "Xbox"
+      ],
+      "videoGenre": "gameplay",
+      "official": false,
+      "externalUrl": "https://www.youtube.com/watch?v=65YNB4CfXgc",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/65YNB4CfXgc",
+      "bookmarked": false,
+      "accentColor": "#26e6ff"
+    },
     {
       "id": "yt-Ch9HTjyscfg",
       "contentType": "video",
@@ -210,6 +238,31 @@
       "embedUrl": "https://www.youtube-nocookie.com/embed/OMYP4wF4tNo",
       "bookmarked": false,
       "accentColor": "#26e6ff"
+    },
+    {
+      "id": "yt-GK93aZDpePk",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "GK93aZDpePk",
+      "sourceId": "nintendo-yt",
+      "sourceName": "Nintendo",
+      "sourceType": "official-platform",
+      "title": "Nintendo Treehouse: Live | Splatoon Raiders",
+      "description": "Join us after the Splatoon Raiders Direct 6.30.2026 to watch Nintendo Treehouse: Live for additional Splatoon Raiders gameplay. The livestream will last approximately 30 minutes.\n\n#NintendoTreehouse #SplatoonRaiders\n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more N",
+      "publishedAt": "2026-06-23T18:12:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GK93aZDpePk/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/GK93aZDpePk/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Nintendo"
+      ],
+      "videoGenre": "gameplay",
+      "official": true,
+      "externalUrl": "https://www.youtube.com/watch?v=GK93aZDpePk",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/GK93aZDpePk",
+      "bookmarked": false,
+      "accentColor": "#E40012"
     },
     {
       "id": "yt-zNCqfC4BNTw",
@@ -497,31 +550,6 @@
       "accentColor": "#26e6ff"
     },
     {
-      "id": "yt-tMBUyAe_QIY",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "tMBUyAe_QIY",
-      "sourceId": "nintendo-yt",
-      "sourceName": "Nintendo",
-      "sourceType": "official-platform",
-      "title": "Disney Dreamlight Valley – Honeyglow Woods Adventure Pack Trailer – Nintendo Switch 2",
-      "description": "Disney Dreamlight Valley: Honeyglow Woods Adventure Pack launches July 8! Play Disney Dreamlight Valley on Nintendo Switch 2 and Nintendo Switch: https://www.nintendo.com/us/store/products/disney-dreamlight-valley-nintendo-switch-2-edition-switch-2/?utm_source=SW&utm_medium=soytnoa&utm_campaign=P106",
-      "publishedAt": "2026-06-17T22:00:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tMBUyAe_QIY/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/tMBUyAe_QIY/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Nintendo"
-      ],
-      "videoGenre": "trailer",
-      "official": true,
-      "externalUrl": "https://www.youtube.com/watch?v=tMBUyAe_QIY",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/tMBUyAe_QIY",
-      "bookmarked": false,
-      "accentColor": "#E40012"
-    },
-    {
       "id": "yt-RfpsUXuNTc0",
       "contentType": "video",
       "provider": "youtube",
@@ -601,32 +629,6 @@
       "official": false,
       "externalUrl": "https://www.youtube.com/watch?v=wvWlvuKhSbM",
       "embedUrl": "https://www.youtube-nocookie.com/embed/wvWlvuKhSbM",
-      "bookmarked": false,
-      "accentColor": "#26e6ff"
-    },
-    {
-      "id": "yt-ZLALsXHLJEE",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "ZLALsXHLJEE",
-      "sourceId": "digital-foundry-yt",
-      "sourceName": "Digital Foundry",
-      "sourceType": "editorial",
-      "title": "DF Retro Super Show #016: E3 Revisited - The First Ten Years",
-      "description": "It's the Digital Foundry Supporter Program that makes the DF Retro Super Show possible! Support the team, support the show, get high quality, ad-free video downloads of all DF content: https://patreon.com/digitalfoundry\n\nIn the wake of a fantastic series of summer showcases, the DF Retro Super Show ",
-      "publishedAt": "2026-06-14T13:50:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZLALsXHLJEE/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/ZLALsXHLJEE/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Hardware",
-        "Reviews"
-      ],
-      "videoGenre": "review",
-      "official": false,
-      "externalUrl": "https://www.youtube.com/watch?v=ZLALsXHLJEE",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/ZLALsXHLJEE",
       "bookmarked": false,
       "accentColor": "#26e6ff"
     }
