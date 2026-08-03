@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-08-03T12:43:37.004Z",
+  "generatedAt": "2026-08-03T15:54:25.034Z",
   "sourceCount": 8,
   "videoCount": 24,
   "videos": [
+    {
+      "id": "yt-5xDUC1bRYSY",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "5xDUC1bRYSY",
+      "sourceId": "digital-foundry-yt",
+      "sourceName": "Digital Foundry",
+      "sourceType": "editorial",
+      "title": "DF Direct Weekly #275: This Is The Most Performant Console Generation Since 16-Bit 2D",
+      "description": "Thanks to Alienware for sponsoring DF Direct. To learn more about the Alienware AREA-51 Gaming Desktop, check out: http://aw.gg/digitalfoundry\n\nThe news has been pretty grim for the last few months, so why not concentrate on the positives? PlayStation 5 and Xbox Series X have delivered the best perf",
+      "publishedAt": "2026-08-03T15:01:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5xDUC1bRYSY/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/5xDUC1bRYSY/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Hardware",
+        "Reviews",
+        "PlayStation",
+        "Xbox"
+      ],
+      "videoGenre": "review",
+      "official": false,
+      "externalUrl": "https://www.youtube.com/watch?v=5xDUC1bRYSY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/5xDUC1bRYSY",
+      "bookmarked": false,
+      "accentColor": "#26e6ff"
+    },
     {
       "id": "yt-dEdrcD45rQk",
       "contentType": "video",
@@ -316,6 +344,31 @@
       "accentColor": "#26e6ff"
     },
     {
+      "id": "yt-_RaZiSBaJfU",
+      "contentType": "video",
+      "provider": "youtube",
+      "providerVideoId": "_RaZiSBaJfU",
+      "sourceId": "nintendo-yt",
+      "sourceName": "Nintendo",
+      "sourceType": "official-platform",
+      "title": "Fire Emblem: Fortune’s Weave Direct 8.4.2026",
+      "description": "The Heroic Games are approaching! Tune in on Aug 4 at 7am PT for the Fire Emblem: Fortune's Weave Direct, featuring roughly 20 minutes of new information about the game.\n\nPre-order today: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/\n\n#FEFortunesWeave #NintendoDirec",
+      "publishedAt": "2026-07-27T17:32:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_RaZiSBaJfU/hqdefault.jpg",
+      "thumbnailFallback": "https://i.ytimg.com/vi/_RaZiSBaJfU/mqdefault.jpg",
+      "duration": null,
+      "liveStatus": "none",
+      "topics": [
+        "Nintendo"
+      ],
+      "videoGenre": "showcase",
+      "official": true,
+      "externalUrl": "https://www.youtube.com/watch?v=_RaZiSBaJfU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/_RaZiSBaJfU",
+      "bookmarked": false,
+      "accentColor": "#E40012"
+    },
+    {
       "id": "yt-D_XO9vg-Yi4",
       "contentType": "video",
       "provider": "youtube",
@@ -576,59 +629,6 @@
       "embedUrl": "https://www.youtube-nocookie.com/embed/x3pE9YRCM2g",
       "bookmarked": false,
       "accentColor": "#E40012"
-    },
-    {
-      "id": "yt-7pZKXhhdp-8",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "7pZKXhhdp-8",
-      "sourceId": "nintendo-yt",
-      "sourceName": "Nintendo",
-      "sourceType": "official-platform",
-      "title": "Duskfade – Pre-order Trailer – Nintendo Switch 2",
-      "description": "Duskfade arrives August 13, 2026 on Nintendo Switch 2! Pre-order now: https://www.nintendo.com/us/store/products/duskfade-switch-2/?utm_source=SW&utm_medium=soytnoa&utm_campaign=P1021-01&utm_id=P1021-01 \n\nJump, swing, and slash through this 3D action platformer! Can you shatter the shackles of time ",
-      "publishedAt": "2026-07-20T16:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7pZKXhhdp-8/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/7pZKXhhdp-8/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Nintendo"
-      ],
-      "videoGenre": "trailer",
-      "official": true,
-      "externalUrl": "https://www.youtube.com/watch?v=7pZKXhhdp-8",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/7pZKXhhdp-8",
-      "bookmarked": false,
-      "accentColor": "#E40012"
-    },
-    {
-      "id": "yt-rdgNC-IId_g",
-      "contentType": "video",
-      "provider": "youtube",
-      "providerVideoId": "rdgNC-IId_g",
-      "sourceId": "digital-foundry-yt",
-      "sourceName": "Digital Foundry",
-      "sourceType": "editorial",
-      "title": "DF Direct Weekly #273: The Future of Fallout + Elder Scrolls, Xbox Account Deletion, Switch 2 OLED?",
-      "description": "Thanks to Alienware for sponsoring DF Direct. To learn more about the Alienware AREA-51 Gaming Desktop, check out: http://aw.gg/digitalfoundry\n\nBethesda tweets out its current Fallout/Elders Scrolls plans... but why? Meanwhile, digital accounts and the draconian anti-consumer limitations come into f",
-      "publishedAt": "2026-07-20T15:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rdgNC-IId_g/hqdefault.jpg",
-      "thumbnailFallback": "https://i.ytimg.com/vi/rdgNC-IId_g/mqdefault.jpg",
-      "duration": null,
-      "liveStatus": "none",
-      "topics": [
-        "Hardware",
-        "Reviews",
-        "Xbox",
-        "Nintendo"
-      ],
-      "videoGenre": "review",
-      "official": false,
-      "externalUrl": "https://www.youtube.com/watch?v=rdgNC-IId_g",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/rdgNC-IId_g",
-      "bookmarked": false,
-      "accentColor": "#26e6ff"
     }
   ]
 }
